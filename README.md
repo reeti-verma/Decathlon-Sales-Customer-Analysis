@@ -59,12 +59,6 @@ The interactive dashboard provides a visual overview of Decathlon sales and cust
 <img width="1207" height="780" alt="dashboard1" src="https://github.com/user-attachments/assets/9e35a372-57db-4010-8052-628f84a9a48c" />
 
 
-### Additional Dashboard Views
-
-<a href="https://github.com/reeti-verma/Decathlon-Sales-Customer-Analysis/blob/main/Dashboard/dashboard1.png">View Dashboard</a>
-
-<a href="https://github.com/reeti-verma/Decathlon-Sales-Customer-Analysis/blob/main/Dashboard/dashboard2.png">View Dashboard</a>
-
 ## Project Insights
 
 * Sales performance can be analyzed across different product categories.
